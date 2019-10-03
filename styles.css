@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+   
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://www.guestcanpost.com/wp-content/uploads/2019/09/baglioni-hotel-london.jpg') no-repeat center center/cover;
+    
+    
+    background-position: center center;
+    height: 100vh;
+}
+
+#container >ul>li:a{
+    position:fixed;
+}
+
+
+h1{
+    background-color: aqua;
+    font-family: monospace;
+    font-style: italic;
+    
+}
+#parag {
+    font-size: 50px;
+    color: #fff;
+}
+
+
+/* img {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url("https://bit.ly/2nNZTgw") no-repeat center center/cover;
+    height:100vh;
+    background-image: url("paper.gif");
+    background-color: #cccccc;
+       
+} */
+h1{
+    color: #fff;
+}
+
+ul{
+    list-style-type: none;
+    margin:0; 
+    padding: 0;
+    overflow: hidden;
+    background-color: chartreuse;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 2em;
+}
+/* .image {
+    background-image: -moz-element(
+    height:100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+ */
+  #section{
+      text-align: center;
+        display: flexbox;
+        margin-left: auto;
+        margin-right: auto;
+        width: 12px;
+  }
+  footer {
+    text-align: center;
+    background: green;
+    margin-top:550px;
+   
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 2em;
+    text-align: left;
+}
+
+.headings {
+    background: red;
+}
+    
+
+li a:hover{
+    background-color: darkorange;
+}
+ 

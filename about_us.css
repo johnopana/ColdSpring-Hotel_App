@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    font-size: 4.5em;
+    width: 90%;
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type: none;
+    margin:0; 
+    padding: 0;
+    overflow: hidden;
+    background-color: chartreuse;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 2em;
+}
+
+
+  footer {
+    text-align: center;
+    background: green;
+    margin-top:450px;
+   
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 2em;
+    text-align: left;
+}
+
+
+.headings {
+    background: red;
+}
+    
+
+li a:hover{
+    background-color: darkorange;
+}
+ 

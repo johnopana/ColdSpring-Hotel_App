@@ -1,0 +1,62 @@
+#container >ul>li:a{
+    position:fixed;
+}
+    
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color: chartreuse;
+    
+}
+nav ul li{
+    float:right;
+}
+li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 250%;
+}
+p{
+    font-size: 40px;
+    color: white;
+}
+
+#parag{
+    margin-bottom: 10%;
+    margin-bottom: 80%;
+}
+
+
+footer {
+    text-align: center;
+    background: green;
+    
+    
+    
+}
+
+footer ul li {
+    font-size: 2em;
+}
+
+.contacts {
+    display: flex;
+} 
+
+
+
+
+
+
+
+
+
+
+
+  
+
+

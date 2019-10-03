@@ -1,0 +1,28 @@
+ul{
+    list-style-type: none;
+    margin:0; 
+    padding: 0;
+    overflow: hidden;
+    background-color: chartreuse;
+}
+li{
+    float:right;
+}
+li a{
+    display: block;
+    color: brown;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-size: 250%;
+}
+#container >ul>li:a{
+    position:fixed;
+}
+nav {
+    font-size: 60px;
+}
+footer {
+    text-align: center;
+    background: green;
+}
