@@ -18,7 +18,7 @@ body{
 
 
 h1{
-    background-color: aqua;
+    /* background-color: aqua; */
     font-family: monospace;
     font-style: italic;
     
@@ -64,7 +64,7 @@ li a{
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  }
+  
  */
   #section{
       text-align: center;
